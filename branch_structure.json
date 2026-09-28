@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "solution/task-api-tests"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "solution/task-api-tests": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "solution/task-api-tests"
+  ]
+}
